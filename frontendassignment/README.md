@@ -1,8 +1,15 @@
-# React + Vite
+Steps to use 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Download the frontend assignment folder from git
+2. Go to the downloaded folder and unzip the folder
+3. Go to unziped folder -> Assignments-main folder
+4. Open the frontendassignment folder in the IDE
+5. Open the terminal and run command  npm i or npm install
+6. After installing all the dependencies run command npm run dev
+7. Open the given url (eg.  http://localhost:5173/)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Stack used
+React JS 
+Vite
+Tailwind CSS
