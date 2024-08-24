@@ -1,0 +1,18 @@
+[
+{"name": "CSPM",
+"widgets": [{
+    "widName":"graph",
+    "content":"graph"
+},
+{
+    "widName":"b",
+    "content":"graph"
+    },
+    {
+    "widName":false,
+    "content":false
+        }]
+},
+{"name": "CSPM"},
+{"name": "CSPM"}
+]
