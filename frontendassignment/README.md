@@ -10,6 +10,7 @@ Steps to use
 
 
 Stack used
-React JS 
-Vite
-Tailwind CSS
+
+1. React JS 
+2. Vite
+3. Tailwind CSS
